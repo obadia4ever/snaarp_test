@@ -7,3 +7,6 @@ I didnt not implement aws cloud trail as this will be done in the aws platform
 Cloud watch will be added to setup setup for the snaarp
 the system will then build automatically. 
 
+the java app is deploy with JAVA 17 and will run fine with all dependencies
+
+the ci/cd run job for the java is already in the java folder 
